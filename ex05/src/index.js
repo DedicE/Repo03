@@ -1,8 +1,7 @@
 function main() {
-
-    var fooBoo = 0;
+    // Only change code below this line  
     var x = 8;
-    
+    // Only change code below this line  
     return x;
     
     }

@@ -1,7 +1,9 @@
 function main() {
+    // Only change code above this line
     x = 10;
     y = 10;
-    x = y;
+    y = x;
+    // Only change code above this line
     return [x, y];
 }
 
