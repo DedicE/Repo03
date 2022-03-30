@@ -11,13 +11,11 @@ function main() {
     
     return {
     studlyCapVar,
-
     properCamelCase,
-
     titleCaseOver
-
     }
 }
-    console.log(main());
 
-    module.exports = main;
+console.log(main());
+
+module.exports = main;
